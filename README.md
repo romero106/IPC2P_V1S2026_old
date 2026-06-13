@@ -7,9 +7,10 @@ Cada carpeta corresponde a una actividad trabajada durante el curso de vacacione
 
 ## 🔗 Actividades
 
-Aquí se añadirán los enlaces directos a cada práctica o proyecto:
+Aquí se añadirán los enlaces directos al README de cada actividad:
 
-- [Actividad 11 de junio](Actividad%2011/README.md)
+- [Actividad 11 de junio](Actividad%2011%20de%20junio/README.md)
+- [Actividad 12 de junio](Actividad%2012%20de%20junio/README.md)
 
 *(Los enlaces serán actualizados conforme se agreguen los trabajos.)*
 
