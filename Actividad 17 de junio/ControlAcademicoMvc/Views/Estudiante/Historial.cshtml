@@ -1,0 +1,15 @@
+@model Estudiante
+
+@{
+    ViewData["Title"] = "Historial";
+}
+
+<h1>Historial del estudiante</h1>
+
+<p><strong>Carne:</strong> @Model.Carne</p>
+<p><strong>Nombre:</strong> @Model.Nombre</p>
+<p><strong>Promedio:</strong> @Model.Promedio</p>
+
+<p>
+    <a href="/Estudiante/Listar">Regresar al listado</a>
+</p>
