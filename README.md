@@ -2,15 +2,26 @@
 
 ## Facultad de Ingeniería
 
+<table align="center">
+<tr>
+<td align="left">
+
 ### 👤 Estudiante
 
-<div align="center">
+<table>
+  <tr>
+    <th>Carné</th>
+    <th>Nombre Completo</th>
+  </tr>
+  <tr>
+    <td>202504020</td>
+    <td>Patricio Manuel Romero Castellanos</td>
+  </tr>
+</table>
 
-| **Carné** | **Nombre Completo**                |
-| --------- | ---------------------------------- |
-| 202504020 | Patricio Manuel Romero Castellanos |
-
-</div>
+</td>
+</tr>
+</table>
 
 ### 📚 Introducción a la Programación y Computación 2
 
