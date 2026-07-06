@@ -1,16 +1,20 @@
-<div align="center">
-
 # Universidad de San Carlos de Guatemala
 
 ## Facultad de Ingeniería
 
 ### 👤 Estudiante
 
+<div align="center">
+
 | **Carné** | **Nombre Completo**                |
 | --------- | ---------------------------------- |
 | 202504020 | Patricio Manuel Romero Castellanos |
 
+</div>
+
 ### 📚 Introducción a la Programación y Computación 2
+
+<div align="center">
 
 | **Ítem**        | **Detalle**                     |
 | --------------- | ------------------------------- |
