@@ -1,8 +1,8 @@
+<div align="center">
+
 # Universidad de San Carlos de Guatemala
 
 ## Facultad de Ingeniería
-
-<div align="center">
 
 ### 👤 Estudiante
 
