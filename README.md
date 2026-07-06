@@ -2,9 +2,13 @@
 
 ## Facultad de Ingeniería
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
+
+### 👤 Estudiante
+
+| **Carné** | **Nombre Completo**                |
+| --------- | ---------------------------------- |
+| 202504020 | Patricio Manuel Romero Castellanos |
 
 ### 📚 Introducción a la Programación y Computación 2
 
@@ -17,20 +21,7 @@
 | **Catedrático** | Jaime Francisco Yuman Ramirez   |
 | **Auxiliar**    | Fernando Jose Vicente Velasquez |
 
-
-</td>
-
-<td valign="top" width="50%">
-
-### 👤 Estudiante
-
-| **Carné** | **Nombre Completo**                |
-| --------- | ---------------------------------- |
-| 202504020 | Patricio Manuel Romero Castellanos |
-
-</td>
-</tr>
-</table>
+</div>
 
 ## ℹ️ Descripción
 
