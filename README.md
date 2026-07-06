@@ -1,22 +1,72 @@
-# 📚 Introducción a la Programación y Computación 2
+# Universidad de San Carlos de Guatemala
 
-## 🗂️ Descripción
+## Facultad de Ingeniería
 
-Este repositorio contiene las actividades desarrolladas a lo largo del curso.  
-Cada carpeta corresponde a una actividad trabajada durante el curso de vacaciones.
+### 📚 Introducción a la Programación y Computación 2
 
-## 🔗 Actividades
+| **Ítem**        | **Detalle**                     |
+| --------------- | ------------------------------- |
+| **Código**      | 0771                            |
+| **Créditos**    | 6                               |
+| **Sección**     | P                               |
+| **Período**     | Vacaciones Primer Semestre 2026 |
+| **Catedrático** | Jaime Francisco Yuman Ramirez   |
+| **Auxiliar**    | Fernando Jose Vicente Velasquez |
 
-Aquí se añadirán los enlaces directos al README de cada actividad:
-
-- [Actividad 11 de junio](Actividad%2011%20de%20junio/README.md)
-- [Actividad 12 de junio](Actividad%2012%20de%20junio/README.md)
-- [Actividad 17 de junio](Actividad%2017%20de%20junio/README.md)
-- [Actividad 24 de junio](Actividad%2024%20de%20junio/README.md)
-- [Actividad 26 de junio](Actividad%2026%20de%20junio/README.md)
-
-*(Los enlaces serán actualizados conforme se agreguen los trabajos.)*
 
 ---
 
-Repositorio académico para fines educativos.
+### 👤 Estudiante
+
+| **Carné** | **Nombre Completo**                |
+| --------- | ---------------------------------- |
+| 202504020 | Patricio Manuel Romero Castellanos |
+
+---
+
+## ℹ️ Descripción
+
+Este repositorio contiene las actividades desarrolladas a lo largo del curso. Cada carpeta corresponde a una actividad, tarea, práctica o proyecto realizado durante el período académico, incluyendo la documentación y los recursos necesarios para su desarrollo.
+
+---
+
+## 🗂️ Organización del Repositorio
+
+```text
+/
+├── 📂 Actividad 1/
+│   ├── Enunciado/
+│   └── README.md
+├── 📂 Actividad 2/
+│   ├── Enunciado/
+│   └── README.md
+├── 📂 Actividad 3/
+│   ├── Enunciado/
+│   └── README.md
+├── 📂 Actividad 4/
+│   ├── Enunciado/
+│   └── README.md
+├── 📂 Actividad 5/
+│   ├── Enunciado/
+│   └── README.md
+├── 📂 Presentaciones/
+│   ├── 📂 Magistral/
+│   └── 📂 Laboratorio/
+└── 📄 README.md
+```
+
+---
+
+## 🔗 Accesos Directos
+
+- [Actividad 1 (11 de junio)](Actividad%201/README.md)
+- [Actividad 2 (12 de junio)](Actividad%202/README.md)
+- [Actividad 3 (17 de junio)](Actividad%203/README.md)
+- [Actividad 4 (24 de junio)](Actividad%204/README.md)
+- [Actividad 5 (26 de junio)](Actividad%205/README.md)
+
+*Los enlaces serán actualizados conforme se agreguen los trabajos.*
+
+---
+
+Este repositorio tiene fines exclusivamente educativos.
