@@ -32,13 +32,9 @@
 </tr>
 </table>
 
----
-
 ## ℹ️ Descripción
 
 Este repositorio contiene las actividades desarrolladas a lo largo del curso. Cada carpeta corresponde a una actividad, tarea, práctica o proyecto realizado durante el período académico, incluyendo la documentación y los recursos necesarios para su desarrollo.
-
----
 
 ## 🗂️ Organización del Repositorio
 
@@ -65,9 +61,9 @@ Este repositorio contiene las actividades desarrolladas a lo largo del curso. Ca
 └── 📄 README.md
 ```
 
----
-
 ## 🔗 Accesos Directos
+
+A continuación se listan los enlaces a los README de cada actividad, tarea, práctica o proyecto.
 
 - [Actividad 1 (11 de junio)](Actividad%201/README.md)
 - [Actividad 2 (12 de junio)](Actividad%202/README.md)
@@ -75,7 +71,7 @@ Este repositorio contiene las actividades desarrolladas a lo largo del curso. Ca
 - [Actividad 4 (24 de junio)](Actividad%204/README.md)
 - [Actividad 5 (26 de junio)](Actividad%205/README.md)
 
-*Los enlaces serán actualizados conforme se agreguen los trabajos.*
+> Los enlaces serán actualizados conforme se agreguen los trabajos.
 
 ---
 
