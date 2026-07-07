@@ -3,29 +3,27 @@
 ## Facultad de Ingeniería
 
 <table align="center">
-<tr>
-<td align="left">
-
-### 👤 Estudiante
-
-<table>
-  <tr>
-    <th>Carné</th>
-    <th>Nombre Completo</th>
-  </tr>
-  <tr>
-    <td>202504020</td>
-    <td>Patricio Manuel Romero Castellanos</td>
-  </tr>
-</table>
-
-### 📚 Introducción a la Programación y Computación 2
-
-<table>
   <thead>
     <tr>
-      <th>Ítem</th>
-      <th>Detalle</th>
+      <th colspan="2">👤 Estudiante</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Carné</strong></td>
+      <td>202504020</td>
+    </tr>
+    <tr>
+      <td><strong>Nombre Completo</strong></td>
+      <td>Patricio Manuel Romero Castellanos</td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="2">📚 Introducción a la Programación y Computación 2</th>
     </tr>
   </thead>
   <tbody>
@@ -54,10 +52,6 @@
       <td>Fernando Jose Vicente Velasquez</td>
     </tr>
   </tbody>
-</table>
-
-</td>
-</tr>
 </table>
 
 ## ℹ️ Descripción
