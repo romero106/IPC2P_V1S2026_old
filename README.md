@@ -2,58 +2,26 @@
 
 ## Facultad de Ingeniería
 
-<table align="center">
-  <thead>
-    <tr>
-      <th colspan="2">📚 Introducción a la Programación y Computación 2</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Código</strong></td>
-      <td>0771</td>
-    </tr>
-    <tr>
-      <td><strong>Créditos</strong></td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td><strong>Sección</strong></td>
-      <td>P</td>
-    </tr>
-    <tr>
-      <td><strong>Período</strong></td>
-      <td>Vacaciones Primer Semestre 2026</td>
-    </tr>
-    <tr>
-      <td><strong>Catedrático</strong></td>
-      <td>Jaime Francisco Yuman Ramirez</td>
-    </tr>
-    <tr>
-      <td><strong>Auxiliar</strong></td>
-      <td>Fernando Jose Vicente Velasquez</td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
 
-<table align="center">
-  <thead>
-    <tr>
-      <th colspan="2">👤 Estudiante</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Carné</strong></td>
-      <td>202504020</td>
-    </tr>
-    <tr>
-      <td><strong>Nombre Completo</strong></td>
-      <td>Patricio Manuel Romero Castellanos</td>
-    </tr>
-  </tbody>
-</table>
+### 👤 Estudiante
 
+| **Carné** | **Nombre Completo**                |
+| --------- | ---------------------------------- |
+| 202504020 | Patricio Manuel Romero Castellanos |
+
+### 📚 Introducción a la Programación y Computación 2
+
+| **Ítem**        | **Detalle**                     |
+| --------------- | ------------------------------- |
+| **Código**      | 0771                            |
+| **Créditos**    | 6                               |
+| **Sección**     | P                               |
+| **Período**     | Vacaciones Primer Semestre 2026 |
+| **Catedrático** | Jaime Francisco Yuman Ramirez   |
+| **Auxiliar**    | Fernando Jose Vicente Velasquez |
+
+</div>
 
 ## ℹ️ Descripción
 
